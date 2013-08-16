@@ -1,6 +1,8 @@
 # ChristmasTree
 
-TODO: Write a gem description
+## Still a work in progress!
+
+This is very much a work in progress if are curious about where this project is headed check out the wrapping paper branch.
 
 ## Installation
 
